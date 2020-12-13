@@ -1,0 +1,5 @@
+token = "1487593458:AAFWTKCNEtFiBk7U2D78pvELS1HQHHSi22o"
+host = "serene-taiga-53897.herokuapp.com"
+db_pass = "admin:admin"
+db_cluster = "cluster0-gsskm.mongodb.net"
+db_name = "money_bot"
