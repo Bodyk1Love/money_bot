@@ -40,7 +40,7 @@ def get_amount(update):
             comment = " ".join(data[2:])
         return [amount, comment]
     except Exception as error:
-        update.message.reply_text("Дииии нахуй цифру пиши!")
+        update.message.reply_text("Пишіть цифру, будь ласка.")
 
 
 def balance(update, context):
